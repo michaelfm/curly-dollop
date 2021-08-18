@@ -2,11 +2,8 @@
 layout: default
 title: Ebene 1
 has_children: yes
-nav_order: 1
+nav_order: 2
 ---
-
-# Code
-{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
