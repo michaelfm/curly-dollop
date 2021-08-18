@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Startseite
 nav_order: 5
 ---
 
