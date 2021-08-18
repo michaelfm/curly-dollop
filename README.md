@@ -1,6 +1,3 @@
-# curly-dollop
-
-
 ## Welcome to GitHub Pages
 
 🚀 🐼
