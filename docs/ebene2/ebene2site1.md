@@ -6,9 +6,6 @@ has_children: no
 nav_order: 1
 ---
 
-# Code
-{: .no_toc }
-
 ## Table of contents
 {: .no_toc .text-delta }
 
