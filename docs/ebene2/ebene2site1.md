@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ebene2 Site1
-parent: ebene2
+parent: Ebene 1
 has_children: no
 nav_order: 1
 ---
