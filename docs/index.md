@@ -17,7 +17,7 @@ https://pmarsceill.github.io/just-the-docs/docs/
 
 https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/    
 
-Folgende Anweisung an den Anfang einer .md Datei, wobei "parent" der Titel der übergeordneten Seite ist.
+Folgende Anweisung am Anfang einer .md Datei definiert eine Unterseite in der Navigation. Da ist "parent" der Titel der übergeordneten Seite. Damit die übergeordnete Seite auch ausklappt, in jener, "has_childeren: yes" eintragen.
 
         ---
         layout: default
