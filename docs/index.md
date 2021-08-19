@@ -19,10 +19,9 @@ https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/
 
         ---
         layout: default
-        title: Ebene2 Site1
-        parent: Ebene 1
+        title: Unterseite 1
+        parent: Startseite
         has_children: no
-        nav_order: 1
         ---
     
         
