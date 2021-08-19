@@ -17,6 +17,8 @@ https://pmarsceill.github.io/just-the-docs/docs/
 
 https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/    
 
+Folgende Anweisung an den Anfang einer .md Datei, wobei "parent" der Titel der übergeordneten Seite ist.
+
         ---
         layout: default
         title: 1.1
