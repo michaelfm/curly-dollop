@@ -19,8 +19,8 @@ https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/
 
         ---
         layout: default
-        title: Unterseite 1
-        parent: Startseite
+        title: 1.1
+        parent: 1
         has_children: no
         ---
     
