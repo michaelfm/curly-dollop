@@ -7,7 +7,7 @@ nav_order: 1
 
 # Startseite eines Ordners definieren
 
-'index.md' nennen z.B. docs/index.md
+"index.md" nennen z.B. "docs/index.md"
 
 # Dokumenation Theme 'Just the Docs'
 
