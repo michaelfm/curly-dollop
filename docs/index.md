@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Startseite
 nav_order: 1
 ---
@@ -7,7 +6,7 @@ nav_order: 1
 
 # Startseite eines Ordners definieren
 
-"index.md" nennen z.B. "docs/index.md"
+`index.md` nennen z.B. `docs/index.md`
 
 # Dokumentation Jekyll Seiten
 
@@ -21,7 +20,7 @@ https://pmarsceill.github.io/just-the-docs/docs/
 
 https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/    
 
-Folgende Anweisung am Anfang einer .md Datei definiert eine Unterseite in der Navigation. "parent" steht hier für dend Titel der übergeordneten Seite. Damit die übergeordnete Seite auch ausklappt, in jener, "has_childeren: yes" eintragen.
+Folgende Anweisung am Anfang einer .md Datei definiert eine Unterseite in der Navigation. "parent" steht hier für dend Titel der übergeordneten Seite. Damit die übergeordnete Seite auch ausklappt, in jener, `has_childeren: yes` eintragen.
 
         ---
         layout: default
