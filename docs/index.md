@@ -23,7 +23,6 @@ https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/
 Folgende Anweisung am Anfang einer .md Datei definiert eine Unterseite in der Navigation. "parent" steht hier für dend Titel der übergeordneten Seite. Damit die übergeordnete Seite auch ausklappt, in jener, `has_childeren: yes` eintragen.
 
         ---
-        layout: default
         title: 1.1
         parent: 1
         has_children: no
