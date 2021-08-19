@@ -12,7 +12,7 @@ nav_order: 1
 
 https://jekyllrb.com/docs/pages/
 
-# Dokumenation Theme 'Just the Docs'
+# Dokumentation Theme 'Just the Docs'
 
 https://pmarsceill.github.io/just-the-docs/docs/
 
