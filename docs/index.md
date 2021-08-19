@@ -9,11 +9,15 @@ nav_order: 1
 
 "index.md" nennen z.B. "docs/index.md"
 
+# Dokumentation Jekyll Seiten
+
+https://jekyllrb.com/docs/pages/
+
 # Dokumenation Theme 'Just the Docs'
 
 https://pmarsceill.github.io/just-the-docs/docs/
 
-# Sidebar Navigation definieren
+## Sidebar Navigation definieren
 
 https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/    
 
